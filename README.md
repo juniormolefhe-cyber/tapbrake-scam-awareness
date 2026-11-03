@@ -34,7 +34,7 @@ The campaign recognises that people do not fall for scams because they are fooli
 | `checklists/` | Short action lists for spotting scams and responding after a suspicious message or call. |
 | `docs/` | Background information, campaign notes, and explanations of the scams covered by Tapbrake. |
 | `templates/` | Reusable materials for sharing the campaign, such as message templates or awareness materials. |
-| `brochure/` | The main Tapbrake brochure and its supporting files. |
+| `brochure/` | The main Tapbrake brochure: [Tapbrake-Brochure.pdf](brochure/Tapbrake-Brochure.pdf). |
 
 ## How to use it
 
